@@ -1,25 +1,25 @@
 {
-    "name": "flask",
-    "dockerFile": "Dockerfile",
-    "extensions": [
-      // Python extensions
-      // https://marketplace.visualstudio.com/items?itemName=ms-python.python
-      "ms-python.python",
-      // https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
-      "visualstudioexptteam.vscodeintellicode",
-      // As a AI intellisens tool you could choose also
-      // https://marketplace.visualstudio.com/items?itemName=kiteco.kite
-      // "kiteco.kite",
-      // https://marketplace.visualstudio.com/items?itemName=kevinrose.vsc-python-indent
-      "kevinrose.vsc-python-indent",
-      // https://marketplace.visualstudio.com/items?itemName=littlefoxteam.vscode-python-test-adapter
-      "littlefoxteam.vscode-python-test-adapter",
-      // https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
-      "njpwerner.autodocstring",
-      // Flask extensions
-      // https://marketplace.visualstudio.com/items?itemName=codeyard.flask-snippets
-      "codeyard.flask-snippets"
-    ],
-    "workspaceFolder": "/app"
-  }
+  "name": "flask",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    // Python extensions
+    // https://marketplace.visualstudio.com/items?itemName=ms-python.python
+    "ms-python.python",
+    // https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
+    "visualstudioexptteam.vscodeintellicode",
+    // As a AI intellisens tool you could choose also
+    // https://marketplace.visualstudio.com/items?itemName=kiteco.kite
+    // "kiteco.kite",
+    // https://marketplace.visualstudio.com/items?itemName=kevinrose.vsc-python-indent
+    "kevinrose.vsc-python-indent",
+    // https://marketplace.visualstudio.com/items?itemName=littlefoxteam.vscode-python-test-adapter
+    "littlefoxteam.vscode-python-test-adapter",
+    // https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
+    "njpwerner.autodocstring",
+    // Flask extensions
+    // https://marketplace.visualstudio.com/items?itemName=codeyard.flask-snippets
+    "codeyard.flask-snippets"
+  ],
+  "workspaceFolder": "/app"
+}
   
