@@ -1,0 +1,32 @@
+{
+  "name": "vue",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    /* 
+     * JS extensions due to
+     * https://code.visualstudio.com/docs/nodejs/extensions
+     * https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69
+     */ 
+    // https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets
+    "xabikos.javascriptsnippets",
+    // https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    "dbaeumer.vscode-eslint",
+    // https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
+    // As a linter tool you could choose also
+    // https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    // "esbenp.prettier-vscode",
+    "visualstudioexptteam.vscodeintellicode",
+    // As a AI intellisens tool you could choose also
+    // https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode
+    "tabnine.tabnine-vscode",
+    // https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode
+    "wallabyjs.quokka-vscode",
+    // https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+    "ritwickdey.live-sass",
+    /* 
+     * VueJS extensions
+     */
+    "octref.vetur"
+  ],
+  "workspaceFolder": "/app"
+}
