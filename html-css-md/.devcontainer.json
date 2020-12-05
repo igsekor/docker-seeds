@@ -1,0 +1,39 @@
+{
+  "name": "node",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    // https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver
+    "ritwickdey.liveserver",
+    /* 
+     * HTML extensions due to
+     * https://code.visualstudio.com/docs/languages/html#_html-extensions
+     */
+    // https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+    "ecmel.vscode-html-css",
+    // https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+    "abusaidm.html-snippets",
+    // https://marketplace.visualstudio.com/items?itemName=zignd.html-css-class-completion
+    "zignd.html-css-class-completion",
+    // https://marketplace.visualstudio.com/items?itemName=mkaufman.htmlhint
+    "mkaufman.htmlhint",
+    /* 
+     * CSS extensions due to
+     * https://code.visualstudio.com/docs/languages/css
+     */
+    // https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+    "ecmel.vscode-html-css",
+    // https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier
+    "michelemelluso.code-beautifier",
+    // https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
+    "mrmlnc.vscode-scss"
+    /* 
+     * Markdown extensions due to
+     * https://code.visualstudio.com/docs/languages/markdown
+     */
+    // https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+    // https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit
+    // https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc
+    // https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts
+  ],
+  "workspaceFolder": "/app"
+}
