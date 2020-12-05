@@ -2,7 +2,9 @@
   "name": "flask",
   "dockerFile": "Dockerfile",
   "extensions": [
-    // Python extensions
+    /*
+     * Python extensions
+     */
     // https://marketplace.visualstudio.com/items?itemName=ms-python.python
     "ms-python.python",
     // https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
@@ -16,7 +18,9 @@
     "littlefoxteam.vscode-python-test-adapter",
     // https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
     "njpwerner.autodocstring",
-    // Flask extensions
+    /*
+     * Flask extensions
+     */
     // https://marketplace.visualstudio.com/items?itemName=codeyard.flask-snippets
     "codeyard.flask-snippets"
   ],
