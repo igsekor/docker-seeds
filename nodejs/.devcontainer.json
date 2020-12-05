@@ -1,0 +1,38 @@
+{
+  "name": "node",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    /* 
+     * JS extensions due to
+     * https://code.visualstudio.com/docs/nodejs/extensions
+     */ 
+    // https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets
+    "xabikos.javascriptsnippets",
+    // https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    "dbaeumer.vscode-eslint",
+    // https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
+    // As a linter tool you could choose also
+    // https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    // "esbenp.prettier-vscode",
+    "visualstudioexptteam.vscodeintellicode",
+    // As a AI intellisens tool you could choose also
+    // https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode
+    "tabnine.tabnine-vscode",
+    // https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode
+    "wallabyjs.quokka-vscode",
+    // https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+    "ritwickdey.live-sass",
+    /* 
+     * NodeJS extensions
+     */
+    // https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense
+    "leizongmin.node-module-intellisense",
+    // https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack
+    "waderyan.nodejs-extension-pack",
+    // https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node
+    "miramac.vscode-exec-node",
+    // https://marketplace.visualstudio.com/items?itemName=jaymorrow.nodeassertionsnippets
+    "jaymorrow.nodeassertionsnippets"
+  ],
+  "workspaceFolder": "/app"
+}
