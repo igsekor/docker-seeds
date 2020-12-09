@@ -1,0 +1,9 @@
+{
+  "name": "go",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    // https://marketplace.visualstudio.com/items?itemName=golang.go
+    "golang.go",
+  ],
+  "workspaceFolder": "/app"
+}
