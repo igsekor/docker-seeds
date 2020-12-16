@@ -1,0 +1,10 @@
+{
+  "name": "flutter",
+  "image": "cirrusci/flutter:stable",
+  "extensions": [
+    // https://marketplace.visualstudio.com/items?itemName=dart-code.dart-code
+    "dart-code.dart-code",
+    // https://marketplace.visualstudio.com/items?itemName=dart-code.flutter
+    "dart-code.flutter"
+  ]
+}
