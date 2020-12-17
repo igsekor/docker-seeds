@@ -10,5 +10,4 @@ RUN git config --global user.name "<user name>"; git config --global user.email 
 # > adb tcpip 5555
 
 # Enviroment settings
-RUN apt-get update; apt-get install -y vim
 RUN cp /app/.bashrc ~/.bashrc
