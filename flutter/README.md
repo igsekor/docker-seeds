@@ -25,7 +25,7 @@ $ adb connect host.docker.internal:5555
 
 Make sure that you already installed SDK Platform-Tools.
 
-### Using macOS (based on [Stackoverflow](https://stackoverflow.com/questions/31374085/installing-adb-on-macos))
+### Using macOS (based on [Stackoverflow](https://stackoverflow.com/questions/31374085/installing-adb-on-macos?answertab=votes#tab-top))
 
 #### Option 1 - Using Homebrew
 
