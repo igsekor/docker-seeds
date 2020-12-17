@@ -3,7 +3,7 @@ FROM matspfeiffer/flutter
 # App settings
 WORKDIR /app
 COPY . .
-RUN git config --global user.name "Igor Korovchenko"; git config --global user.email "igsekor@gmail.com"
+RUN git config --global user.name "<user name>"; git config --global user.email "<user email>"
 # Make sure that you run Android Emulator on base machine
 # and connect adb to the port by command before build container:
 # > adb tcpip 5555
