@@ -17,3 +17,4 @@ The conception of developing in container is applyed in the repository. Before u
 3. [Common VueJS project](https://github.com/igsekor/docker-seeds/tree/main/vuejs)
 4. [Flask project](https://github.com/igsekor/docker-seeds/tree/main/flask)
 5. [Basic Go project](https://github.com/igsekor/docker-seeds/tree/main/go)
+6. [Flutter setup](https://github.com/igsekor/docker-seeds/tree/main/flutter)
