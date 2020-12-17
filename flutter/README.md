@@ -1,4 +1,5 @@
-# The image for develope any app on Flutter
+# The image for developing any app on Flutter in Docker container
+
 The dev container is based on the Docket image 'matspfeiffer/flutter'.
 
 ## Working with repository
