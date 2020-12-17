@@ -1,6 +1,6 @@
 {
-  "name": "flutter",
-  "image": "cirrusci/flutter:stable",
+  "name": "аlutter",
+  "image": "matspfeiffer/flutter",
   "extensions": [
     // https://marketplace.visualstudio.com/items?itemName=dart-code.dart-code
     "dart-code.dart-code",
