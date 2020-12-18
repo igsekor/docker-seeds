@@ -1,5 +1,5 @@
 # Docker Seeds
-File sets to start the development of the new project in Docker container.
+File sets to start the development of the new project in Docker container with the help of the Visual Studio Code.
 
 ## Basic conception
 The conception of developing in container is applyed in the repository. Before using of this repository for coding make sure that you fork it before to your git account or copy file by file to your computer. 
