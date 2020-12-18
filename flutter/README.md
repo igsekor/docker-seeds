@@ -1,6 +1,6 @@
 # The image for developing any app on Flutter in Docker container
 
-The dev container is based on the Docket image 'matspfeiffer/flutter'.
+The dev container is based on the Docker image 'matspfeiffer/flutter'. Don't forget to change the user name and email in Dockerfile to setup the git for yourself.
 
 ## Working with repository
 
